@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Spinach",
+    "category": "Vegetables",
+    "calories": 23,
+    "protein": 2.9,
+    "carbs": 3.6,
+    "fat": 0.4,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/4jpNPu7IW8k"
+  },
+  {
+    "name": "Salmon",
+    "category": "Fish",
+    "calories": 206,
+    "protein": 22,
+    "carbs": 0,
+    "fat": 13,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/dKhkCiD4zEQ"
+  },
+  {
+    "name": "Brown Rice",
+    "category": "Grains",
+    "calories": 218,
+    "protein": 4.5,
+    "carbs": 45,
+    "fat": 1.8,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/LL_D1HhOsBc"
+  },
+  {
+    "name": "Eggs",
+    "category": "Dairy",
+    "calories": 78,
+    "protein": 6.3,
+    "carbs": 0.6,
+    "fat": 5.3,
+    "serving_size": "50g",
+    "photo": "https://unsplash.com/photos/oDJxJb4y5tE"
+  },
+  {
+    "name": "Broccoli",
+    "category": "Vegetables",
+    "calories": 34,
+    "protein": 2.8,
+    "carbs": 6,
+    "fat": 0.4,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/l55IGtwI8mI"
+  },
+  {
+    "name": "Chicken Breast",
+    "category": "Meat",
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/DNQLBdGdld0"
+  },
+  {
+    "name": "Banana",
+    "category": "Fruits",
+    "calories": 105,
+    "protein": 1.3,
+    "carbs": 27,
+    "fat": 0.4,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/Kl3467edwsE"
+  },
+  {
+    "name": "Almonds",
+    "category": "Nuts",
+    "calories": 161,
+    "protein": 6,
+    "carbs": 2.5,
+    "fat": 14,
+    "serving_size": "50g",
+    "photo": "https://unsplash.com/photos/hw8vOPAIZgk"
+  },
+  {
+    "name": "Sweet Potato",
+    "category": "Vegetables",
+    "calories": 86,
+    "protein": 1.6,
+    "carbs": 20,
+    "fat": 0.1,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/geYw6L4-WU8"
+  },
+  {
+    "name": "Tuna",
+    "category": "Fish",
+    "calories": 128,
+    "protein": 29,
+    "carbs": 0,
+    "fat": 1.1,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/kC9KUtSiflw"
+  },
+  {
+    "name": "Quinoa",
+    "category": "Grains",
+    "calories": 120,
+    "protein": 4.4,
+    "carbs": 21,
+    "fat": 1.9,
+    "serving_size": "100g",
+    "photo": "https://unsplash.com/photos/0zgiwzaE5fo"
+  }
+]
